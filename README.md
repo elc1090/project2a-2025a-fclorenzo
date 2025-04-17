@@ -17,8 +17,7 @@ Preencha aqui a URL para acesso ao site publicado
 
 #### Desenvolvedor(a)
 
-Preencha aqui seu nome
-
+Lorenzo Comunello
 
 #### Ambiente de desenvolvimento
 
