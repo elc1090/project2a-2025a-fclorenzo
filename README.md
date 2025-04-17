@@ -19,7 +19,7 @@ Lorenzo Comunello
 
 ## Créditos
 
--<https://docs.github.com/en/rest/commits/commits?apiVersion=2022-11-28>
+<https://docs.github.com/en/rest/commits/commits?apiVersion=2022-11-28>
 
 ## Bastidores
 
